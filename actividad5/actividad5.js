@@ -16,7 +16,7 @@ while (i < 5) {
 }
 console.log(arreglo);
 
-// Sin usar push.
+// Sin usar push
 var arreglo = []
 
 var i = 0
